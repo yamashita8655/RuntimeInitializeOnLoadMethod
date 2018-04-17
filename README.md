@@ -1,0 +1,2 @@
+# RuntimeInitializeOnLoadMethod
+UnityのAwakeより前に行いたい初期化を書く方法
